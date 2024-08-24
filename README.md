@@ -20,9 +20,12 @@ Here’s a peek into what I’ve been working on:
 
 ## 📜 Certifications
 Harvard CS50 Series: I’ve tackled courses in programming, cybersecurity, and databases, building a solid foundation in these key areas.
+
 AICE Program (ALX): As part of the Artificial Intelligence Certified Expert program, I’m honing my skills in AI, prompt engineering, and machine learning. This program is all about mastering AI, and I’m loving every minute of it!
+
 ## 🤖 What I’m Up To Now
 Menu Randomizer Website: I’m working on making this site even smarter, thanks to the Gemini LLM. It’s pretty cool to see how AI can help make decisions easier (and tastier!).
+
 Custom Object Detection AI for Speedball: I’m gathering data and training an AI to detect ball hits in speedball, aiming to improve accuracy and possibly replace human judges in the future.
 ## 🎯 Let’s Connect!
 Feel free to explore my repositories, and if you’re interested in tech, AI, or just want to chat, I’d love to hear from you! Whether you have questions, suggestions, or just want to say hi, I’m here.
