@@ -4,7 +4,9 @@ I'm thrilled you're here! I’m Omar Wael, a self-taught developer with a deep l
 
 ## 🚀 A Bit About Me
 💡 What I’m Into: Lately, I’ve been diving into AI, building websites, and crafting mobile apps. I’m particularly passionate about projects that blend creativity with technology.
+
 🎓 My Learning Path: My coding journey kicked off with a simple HTML/CSS project. Fast forward, and now I’m tackling more complex challenges, from AI-driven apps to full-stack web development.
+
 🌍 Fun Fact: Outside of coding, I’m either on the chessboard plotting my next move or on the speedball court, pushing my limits. Both hobbies have sharpened my problem-solving skills and taught me the importance of strategy.
 ## 🔧 Some of My Projects
 Here’s a peek into what I’ve been working on:
