@@ -34,9 +34,16 @@ Integrated external APIs, including Zoom, to automate repetitive team processes,
 ---
 
 ## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-wael-hawary/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.moelhawary@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/omar-wael-hawary)  
-- [Email](mailto:omar.moelhawary@gmail.com)  
 
-💻 Tech Stack:
-NodeJS JavaScript Postman Python CSS3 C HTML5 Express.js MySQL Vercel Python SQLite
+## 🛠️ Tech Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
